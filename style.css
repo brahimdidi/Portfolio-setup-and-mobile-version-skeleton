@@ -57,15 +57,13 @@ body {
 .h2 {
   font-size: 40px;
   font-weight: 700;
-  color:rgb(115, 252, 125);
+  color: rgb(115, 252, 125);
   text-transform: capitalize;
-
 }
 
 .h3 {
   font-size: 32px;
   font-weight: 500;
-    
 }
 
 .paragraph {
@@ -75,7 +73,7 @@ body {
   width: 327px;
   height: auto;
   line-height: 28px;
-  color:#c8c8d4;
+  color: #c8c8d4;
   margin-top: 40px;
   border-bottom: solid 2px #646369;
   padding-bottom: 33px;
@@ -107,8 +105,7 @@ body {
 .skills h4 {
   font-size: 12px;
   font-weight: 500;
-  color:  #9490ff;
-
+  color: #9490ff;
 }
 
 .socials {
@@ -142,4 +139,3 @@ body {
   text-transform: capitalize;
   color: #a2a3ae;
 }
-
