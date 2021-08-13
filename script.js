@@ -1,3 +1,3 @@
 // setup scriot
-const bamo = "hello Microverse"
+const bamo = 'hello microverse';
 console.log('bamo');
